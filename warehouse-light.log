@@ -1,0 +1,38 @@
+---- light / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
+LoadBSPFile: 'warehouse.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+img::ConvertTextures: WARNING: invalid size data for 
+Loading extended texinfo flags from warehouse.texinfo.json...
+WARNING: entity at () (worldspawn) has empty key/value "property 1" ""
+WARNING: entity at (-640 496 352) (light) has empty key/value "target" ""
+WARNING: entity at (-832 524 160) (weapon_rocketlauncher) has empty key/value "message" ""
+120 entities read, 41 are lights.
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Embree_TraceInit: Embree version: 3.12.1
+Embree_TraceInit: 
+	0 sky faces
+	2311 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 41 initial lights
+SetupLights: 41 after surface lights
+SetupLights: 41 after jittering
+WARNING: couldn't nudge light out of solid at -1224 96 120
+WARNING: couldn't nudge light out of solid at -1232 472 264
+WARNING: couldn't nudge light out of solid at -1232 928 584
+WARNING: couldn't nudge light out of solid at -1232 928 120
+Final count: 41 lights, 0 suns in use.
+0 surface light points in use.
+lightmap size (total): 132664
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing warehouse.bsp as Quake BSP bsp29
+0.060s seconds elapsed
+0 empty lightmaps
+
+
