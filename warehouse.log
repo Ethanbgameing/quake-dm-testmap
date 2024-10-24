@@ -7,7 +7,7 @@ Input file: C:\Users\ethan\Documents\GitHub\quake-dm-testmap\warehouse-compile.m
 Output file: C:\Users\ethan\Documents\GitHub\quake-dm-testmap\warehouse.bsp
 
 INFO: using built-in palette.
-    164 entities
+    167 entities
      14 unique textures
     541 texinfos
     830 unique planes
@@ -98,8 +98,8 @@ count   lump name    byte size
      14 textures          59060
         lightdata             0
         visdata               0
-        entdata            7213
+        entdata            7420
 
-0.466s seconds elapsed
+0.409s seconds elapsed
 
 

@@ -14,9 +14,9 @@ Calculating Full Vis:
 Expanding clusters...
 average leafs visible: 123
 c_noclip: 0
-c_chains: 998955
+c_chains: 1000246
 visdatasize:12197  compressed from 14534
 Writing warehouse.bsp as Quake BSP bsp29
-0.22s elapsed
+0.18s elapsed
 
 

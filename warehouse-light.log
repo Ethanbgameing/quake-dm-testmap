@@ -7,7 +7,7 @@ Loading extended texinfo flags from warehouse.texinfo.json...
 WARNING: entity at () (worldspawn) has empty key/value "property 1" ""
 WARNING: entity at (-640 496 352) (light) has empty key/value "target" ""
 WARNING: entity at (-832 524 160) (weapon_rocketlauncher) has empty key/value "message" ""
-120 entities read, 41 are lights.
+123 entities read, 41 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
@@ -32,7 +32,7 @@ Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing warehouse.bsp as Quake BSP bsp29
-0.060s seconds elapsed
+0.055s seconds elapsed
 0 empty lightmaps
 
 
